@@ -174,3 +174,17 @@ input[type=submit] {
 {
 	border:1px solid red;
 }
+
+#visitors{
+  width: 1000px;
+  margin-top: 50px !important;
+  margin: auto;
+}
+
+.checkin{
+  width: 100px;
+}
+
+thead tr th{
+  text-align: center;
+}
